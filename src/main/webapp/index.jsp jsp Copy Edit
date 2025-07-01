@@ -1,9 +1,0 @@
-<html>
-  <head>
-    <title>Docker Maven WebApp</title>
-  </head>
-  <body>
-    <h1>Welcome to Docker + Jenkins Maven WebApp</h1>
-    <p><a href="hello">Click here to say Hello</a></p>
-  </body>
-</html>
