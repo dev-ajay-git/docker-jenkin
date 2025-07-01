@@ -16,7 +16,7 @@ sh 'mvn clean package'
 } 
 stage ('docker build') {
 steps {
-docker build -t ajay01150/tomcat25 .
+sh 'docker build -t ajay01150/tomcat25 . '
 }
 }
 }
